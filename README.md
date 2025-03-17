@@ -7,7 +7,7 @@ QR Code PayPal and QR Code Viet Capital Bank
 
 QR Code PayPal
 
-![QR Code for Donations](frame.png)
+![QR Code for Donations](qr_paypal.png)
 
 QR Code Viet Capital Bank
 
