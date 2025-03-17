@@ -6,6 +6,7 @@
 
 QR Code PayPal
 
+![QR Code for Donations](frame.png)
 
 QR Code Viet Capital Bank
 
